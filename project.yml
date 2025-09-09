@@ -1,13 +1,14 @@
 settings:
-  name: "Product Name"
-  search: 
+  name: NetApp Console storage management
+  search: console-relnotes,console-setup-admin,bluexp-cloud-volumes-ontap,bluexp-ontap-onprem,bluexp-azure-netapp-files,bluexp-fsx-ontap,bluexp-cloud-volumes-service-gcp,bluexp-backup-recovery,bluexp-copy-sync,bluexp-classification,bluexp-tiering,bluexp-replication,bluexp-cloud-ops,bluexp-automation,cloud-volumes-ontap-relnotes,bluexp-storagegrid,bluexp-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet,bluexp-blob-storage,bluexp-volume-caching,bluexp-disaster-recovery,bluexp-blob-storage,bluexp-google-cloud-storage,netapp-automation,bluexp-ransomware-protection,bluexp-software-updates,bluexp-alerts,workload-setup-admin,workload-fsx-ontap,workload-databases,workload-genai,workload-vmware
   internal:
     pdf_enabled: false
+    lipi_enabled: true
   prod:
     pdf_enabled: false
-  # harmony_enabled: true
-
-sidebar: 
+    harmony_enabled: true
+    lipi_enabled: false
+sidebar:
   entries:
-  - title: #repeat title of family page
-    url: /index.html
+    - title: NetApp Console storage management docs
+      url: /index.html
