@@ -23,57 +23,57 @@ product-family:
   tiles:
     - title: "Release notes"
       icon: ./media/icon-docs.png
-      url: ../bluexp-relnotes/index.html
+      url: ../console-relnotes/index.html
       summary: "Learn what's new across NetApp Console storage management and NetApp data services."
       tags: all
     - title: "NetApp Console administration"
       icon: ./media/icon-admin.png
-      url: ../bluexp-setup-admin/index.html
+      url: ../console-setup-admin/index.html
       summary: "Learn how to start using the NetApp Console and administer identity and access management, agents, and more."
       tags: all,connectors,iam
     - title: "NetApp Data Services"
       icon: ./media/icon-storagegrid.png
-      url: ../bluexp-family/index.html
+      url: ../data-services-family/index.html
       summary: "Explore NetApp data services to secure and protect your data infrastructure."
       tags: all,data services
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-fsx.png
-      url: ../bluexp-fsx-ontap/index.html
+      url: ../storage-management-fsx-ontap/index.html
       summary: "Use the full capabilities of ONTAP as a native, AWS-managed service."
       tags: all, aws
     - title: "Amazon S3 storage"
       icon: ./media/icon-s3.png
-      url: ../bluexp-s3-storage/index.html
+      url: ../storage-management-s3-storage/index.html
       summary: "Discover and manage the Amazon S3 buckets in your AWS accounts."
       tags: all,aws
     - title: "Azure Blob storage"
       icon: ./media/icon-azure-blob.png
-      url: ../bluexp-blob-storage/index.html
+      url: ../storage-management-blob-storage/index.html
       summary: "Discover and manage Azure Blob storage in your Azure subscriptions."
       tags: all,azure
     - title: "Azure NetApp Files"
       icon: ./media/icon-anf.png
-      url: ../bluexp-azure-netapp-files/index.html
+      url: ../storage-management-azure-netapp-files/index.html
       summary: "High-performance file storage service in Azure for your core business applications."
       tags: all,storage,azure
     - title: "Cloud Volumes ONTAP"
       icon: ./media/icon-cvo.png
-      url: ../bluexp-cloud-volumes-ontap/index.html
+      url: ../storage-management-cloud-volumes-ontap/index.html
       summary: "Make your cloud storage more affordable, intelligent, compliant, and secure."
       tags: all,storage,aws,azure,gcp, subscriptions
     - title: "E-Series systems"
       icon: ./media/icon-e-series.png
-      url: ../bluexp-e-series/index.html
+      url: ../storage-management-e-series/index.html
       summary: "Discover E-Series systems for a complete view of data across your hybrid multicloud."
       tags: all,on-prem
     - title: "Google Cloud NetApp Volumes"
       icon: ./media/icon-cvs.png
-      url: ../bluexp-google-cloud-netapp-volumes/index.html
+      url: ../storage-management-google-cloud-netapp-volumes/index.html
       summary: "Secure, protect, and accelerate your file storage."
       tags: all,storage,gcp
     - title: "Google Cloud Storage"
       icon: ./media/icon-google-cloud-storage.png
-      url: ../bluexp-google-cloud-storage/index.html
+      url: ../storage-management-google-cloud-storage/index.html
       summary: Discover and manage the Cloud Storage buckets in your Google account.
       tags: all,gcp
     - title: "Keystone"
@@ -83,12 +83,12 @@ product-family:
       tags: all,subscriptions
     - title: "On-premises ONTAP clusters"
       icon: ./media/icon-onprem.png
-      url: ../bluexp-ontap-onprem/index.html
+      url: ../storage-management-ontap-onprem/index.html
       summary: "Manage your on-premises ONTAP clusters from the NetApp Console by using System Manager and NetApp data services."
       tags: all,on-prem
     - title: "StorageGRID"
       icon: ./media/icon-storagegrid.png
-      url: ../bluexp-storagegrid/index.html
+      url: ../storage-management-storagegrid/index.html
       summary: "Manage your StorageGRID systems."
       tags: all,on-prem
  
