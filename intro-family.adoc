@@ -3,7 +3,7 @@ permalink: intro-family.html
 keywords: 
 summary: 
 ---
-= NetApp Console storagement
+= NetApp Console storage management
 :icons: font
 :imagesdir: ./media/
 
