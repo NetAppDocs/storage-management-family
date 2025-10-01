@@ -7,19 +7,19 @@ product-family:
       tags: all
       class: active
     - title: AWS
-      tags: aws, all
+      tags: aws
     - title: Azure
-      tags: azure, all
+      tags: azure
     - title: Google Cloud
-      tags: gcp, all
-    - title: NetApp data services
+      tags: gcp
+    - title: NetApp Data Services
       tags: data services
     - title: NetApp Console
-      tags: console, all
+      tags: console
     - title: On-premises
-      tags: on-prem, all
+      tags: on-prem
     - title: Storage subscriptions
-      tags: subscriptions, all
+      tags: subscriptions
   tiles:
     - title: "Release notes"
       icon: ./media/icon-docs.png
