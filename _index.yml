@@ -12,7 +12,7 @@ product-family:
       tags: azure
     - title: Google Cloud
       tags: gcp
-    - title: NetApp data services
+    - title: NetApp Data Services
       tags: data services
     - title: NetApp Console
       tags: console
