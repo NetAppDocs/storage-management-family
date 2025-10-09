@@ -10,5 +10,5 @@ settings:
     lipi_enabled: false
 sidebar:
   entries:
-    - title: NetApp Console storage management docs
+    - title: NetApp Console storage management 
       url: /index.html
