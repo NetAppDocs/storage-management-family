@@ -30,7 +30,7 @@ product-family:
       icon: ./media/icon-admin.png
       url: ../console-setup-admin/index.html
       summary: "Learn how to start using the NetApp Console and administer identity and access management, agents, and more."
-      tags: all,connectors,iam
+      tags: all,console
     - title: "NetApp Data Services"
       icon: ./media/icon-storagegrid.png
       url: ../data-services-family/index.html
