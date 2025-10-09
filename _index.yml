@@ -69,7 +69,7 @@ product-family:
     - title: "Google Cloud NetApp Volumes"
       icon: ./media/icon-cvs.png
       url: ../storage-management-google-cloud-netapp-volumes/index.html
-      summary: "Secure, protect, and accelerate your file storage."
+      summary: "High-performance file storage service in Google Cloud."
       tags: all,storage,gcp
     - title: "Google Cloud Storage"
       icon: ./media/icon-google-cloud-storage.png
