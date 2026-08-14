@@ -20,6 +20,8 @@ product-family:
       tags: on-prem
     - title: Storage subscriptions
       tags: subscriptions
+    - title: Workloads
+      tags: workloads  
   tiles:
     - title: "Release notes"
       icon: ./media/icon-docs.png
